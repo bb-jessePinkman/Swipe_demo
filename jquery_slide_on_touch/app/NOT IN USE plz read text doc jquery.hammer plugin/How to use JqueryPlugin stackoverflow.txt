@@ -1,0 +1,3 @@
+Open the link below to understand the usage of Hammer.js on selectors using jquery:
+
+	http://stackoverflow.com/questions/16873981/how-to-use-hammer-to-swipe
